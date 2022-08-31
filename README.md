@@ -65,6 +65,7 @@ MIT License. Copyright (c) 2022 Chris Stefano. See [LICENSE](LICENSE) for detail
 <!-- links -->
 
 [buildpack]: https://github.com/virtualstaticvoid/heroku-buildpack-r
+[button]: https://www.herokucdn.com/deploy/button.svg
 [deployapp]: https://heroku.com/deploy?template=https://github.com/virtualstaticvoid/heroku-telegram-bot-poll/tree/main
 [hobby]: https://devcenter.heroku.com/articles/dyno-types
 [telegram.bot]: https://cran.r-project.org/web/packages/telegram.bot/
