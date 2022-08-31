@@ -8,8 +8,8 @@
     "telegram bot",
     "heroku-buildpack-r"
   ],
-  "repository": "https://github.com/virtualstaticvoid/heroku-telegram-bot-app",
-  "logo": "https://github.com/virtualstaticvoid/heroku-telegram-bot-app/raw/main/logo.png",
+  "repository": "https://github.com/virtualstaticvoid/heroku-telegram-bot-updater",
+  "logo": "https://github.com/virtualstaticvoid/heroku-telegram-bot-updater/raw/main/logo.png",
   "success_url": "/",
   "formation": {
     "worker": {
