@@ -1,5 +1,5 @@
 {
-  "name": "heroku-telegram-bot-app",
+  "name": "heroku-telegram-bot-updater",
   "stack": "heroku-22",
   "description": "This is an example telegram bot application, which uses R and the heroku-buildpack-r on Heroku.",
   "keywords": [
